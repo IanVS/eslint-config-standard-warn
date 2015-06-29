@@ -15,3 +15,4 @@ for (var rule in standard.rules) {
 }
 
 module.exports = standard
+
