@@ -1,0 +1,54 @@
+{
+  "name": "eslint-config-standard-warn",
+  "version": "0.0.1",
+  "description": "ESLint Sharable Config Based on Standard, with All Errors Changed to Warnings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanVS/eslint-config-standard-warn.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint config",
+    "eslint-config-standard",
+    "eslint-warning",
+    "rules",
+    "linting",
+    "standard",
+    "style checker",
+    "code style",
+    "code checker",
+    "code linter",
+    "style linter",
+    "simple",
+    "policy",
+    "style",
+    "code",
+    "lint",
+    "jshint",
+    "jscs",
+    "hint",
+    "enforce",
+    "check",
+    "verify",
+    "quality",
+    "checker",
+    "code standards",
+    "JavaScript Standard Style",
+    "standard style"
+  ],
+  "author": "Ian VanSchooten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IanVS/eslint-config-standard-warn/issues"
+  },
+  "homepage": "https://github.com/IanVS/eslint-config-standard-warn#readme",
+  "dependencies": {
+    "eslint": "^0.24.0",
+    "eslint-config-standard": "*"
+  }
+}
