@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-standard-warn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint Sharable Config Based on Standard, with All Errors Changed to Warnings",
   "main": "index.js",
   "scripts": {
